@@ -9,3 +9,5 @@ This twitter analysis was able to scrape, manipulate and visualize tweets to ana
 This analysis used google sheets to store the scraped tweets and pandas dataframes online that were later used to produce data visualizations on Tableau using TabPy.
 TabPy is an API that enables evaluation of Python code from within a Tableau workbook.
 The link to the Tableau workbook is:
+
+The python script and output using Jupyter Notebooks via the Visual Studio Code editor is titled above as "Twitter Canadian Political Analysis.ipynb".
