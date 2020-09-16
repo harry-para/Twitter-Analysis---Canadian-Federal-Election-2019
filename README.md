@@ -6,8 +6,8 @@ The candidates observed were Justin Trudeau, Andrew Scheer, Jagmeet Singh, Eliza
 The main goal of this project was to conduct a Twitter sentiment and network analysis of the tweets gathered to analyze each of the candidate's social media presence and impacts.
 This twitter analysis was able to scrape, manipulate and visualize tweets to analyze potential policital strategies that were taken on by the candidates.
 
-This analysis used google sheets to store the scraped tweets and pandas dataframes online that were later used to produce data visualizations on Tableau using TabPy.
+This analysis used Google Sheets to store the scraped tweets and pandas dataframes online that were later used to produce data visualizations on Tableau using TabPy.
 TabPy is an API that enables evaluation of Python code from within a Tableau workbook.
 The link to the Tableau workbook is:
 
-The python script and output using Jupyter Notebooks via the Visual Studio Code editor is titled above as "Twitter Canadian Political Analysis.ipynb".
+The python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "Twitter Canadian Political Analysis.ipynb".
