@@ -18,7 +18,7 @@ TabPy is an API that enables evaluation of Python code from within a Tableau wor
 
 The link to the Tableau workbook is: https://drive.google.com/drive/folders/1LioDRmmS_W3t-h3vq8htEDLQU9cFllFb 
 
-The name of the file is "Twitter Analysis - Canadian Federal Election 2019".
+The name of the file is "Twitter Analysis - Canadian Federal Election 2019.twbx".
 
 Note: This file must be downloaded and opened with Tableau Desktop and a TabPy connection to view.
 
