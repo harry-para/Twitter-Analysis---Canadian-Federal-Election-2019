@@ -17,7 +17,7 @@ This analysis used Google Sheets to store the scraped tweets and pandas datafram
 TabPy is an API that enables evaluation of Python code from within a Tableau workbook.
 
 The link to the Tableau workbook is: https://drive.google.com/drive/folders/1LioDRmmS_W3t-h3vq8htEDLQU9cFllFb 
-
+The name of the file is "Twitter Analysis - Canadian Federal Election 2019".
 Note: This file must be downloaded and opened with Tableau Desktop and a TabPy connection to view.
 
 The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "Twitter Canadian Political Analysis.ipynb".
