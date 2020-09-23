@@ -23,3 +23,7 @@ The name of the file is "Twitter Analysis - Canadian Federal Election 2019.twbx"
 Note: This file must be downloaded and opened with Tableau Desktop and a TabPy connection to view.
 
 The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "Twitter Canadian Political Analysis.ipynb".
+
+Python libraries used include: oauth2client, df2gspread, GetOldTweets3, plotly, numpy, pandas, scikit-learn, tkinter, datetime, nltk
+
+Python APIs used include: gspread and TabPy
